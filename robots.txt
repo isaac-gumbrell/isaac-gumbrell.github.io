@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://isaac-gumbrell.github.io/al-folio/sitemap.xml
+Sitemap: https://isaac-gumbrell.github.io/sitemap.xml
