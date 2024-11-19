@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: about...
 permalink: /
-subtitle: I'm Isaac, an Energy Economist from Auckland New Zealand. I help participants in the energy industry adapt to an ever changing world. 
+subtitle: I’m Isaac, an Energy Economist from Auckland, New Zealand. I work with energy industry professionals to navigate and thrive in an ever-changing landscape.
 
 profile:
   align: right
@@ -15,6 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
-Here you'll find links to my past work, resources to help you understand electricity markets, and repositories of powerful modelling software.
-If you'd like some help, flick me an email and lets talk!
+This site is your gateway to:
+- **My Portfolio:** Explore my past projects.
+- **Market Insights:** Access resources designed to simplify the complexities of energy systems and markets.
+- **Powerful Tools:** Discover modeling software and frameworks that empower data-driven decision-making.

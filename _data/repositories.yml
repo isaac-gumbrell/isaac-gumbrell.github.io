@@ -1,25 +1,7 @@
-github_users:
-  # - torvalds
-  # - alshedivat
-
-repo_description_lines_max: 4
 
 github_repos:
   - isaac-gumbrell/scenario_framework_manager
-  # - alshedivat/al-folio
-  # - jekyll/jekyll
-  # - twbs/bootstrap
-  # - jquery/jquery
-  # - FortAwesome/Font-Awesome
-  # - mathjax/MathJax
-  # - jpswalsh/academicons
+
 
 greatest_github_repos:
   - PyPSA/PyPSA
-  # - alshedivat/al-folio
-  # - jekyll/jekyll
-  # - twbs/bootstrap
-  # - jquery/jquery
-  # - FortAwesome/Font-Awesome
-  # - mathjax/MathJax
-  # - jpswalsh/academicons
