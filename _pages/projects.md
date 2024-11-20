@@ -18,7 +18,7 @@ Here's some of the publically available projects I've been involved in. For a fu
 <br style="line-height:3;">
 
 
-#### Policy work with [RBP](https://rbp.consulting/)
+#### Policy work with [Robinson Bowmaker Paul](https://rbp.consulting/)
 **Evolution of Pilbara Network Roles**<br style="line-height:1;">
 Client: Energy Policy Western Australia<br style="line-height:1;">
 Date: 2024 - Ongoing<br style="line-height:1;">
