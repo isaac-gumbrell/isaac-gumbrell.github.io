@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://isaac-gumbrell.github.io/sitemap.xml
+Sitemap: https://isaacgumbrell.com/sitemap.xml
